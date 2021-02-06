@@ -89,7 +89,7 @@ To set an environment variable In your .bashrc, .bash_profile, or .profile add
 
 ![alt-text](./env-md-images/intellijRunMenu.jpg)
 
-![alt-text](env-md-images/intellijEditConfig3.jpg)
+![alt-text](env-md-images/intellijEditConfig.jpg)
 
 3. Select Your Run Configuration.  This should be Spring Boot - CaliberApplication.
 
