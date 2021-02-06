@@ -87,25 +87,25 @@ To set an environment variable In your .bashrc, .bash_profile, or .profile add
 
 2. Go to Run-> Edit Configurations... 
 
-![alt-text](./env-md-images/intellijRunMenu2.jpg)
+![alt-text](./env-md-images/intellijRunMenu.jpg)
 
-![alt-text](./env-md-images/intellijEditConfig2.jpg)
+![alt-text](env-md-images/intellijEditConfig.jpg)
 
 3. Select Your Run Configuration.  This should be Spring Boot - CaliberApplication.
 
-![alt-text](./env-md-images/intellijSelectConfig2.jpg)
+![alt-text](./env-md-images/intellijSelectConfig.jpg)
 
 4. Click the Edit Environment Variables button.
 
-![alt-text](./env-md-images/intellijEditEnvVarButton2.jpg)
+![alt-text](./env-md-images/intellijEditEnvVarButton.jpg)
 
 4. Click the plus button to add a new environment variable.
 
-![alt-text](./env-md-images/intellijEnvVarPlus2.jpg)
+![alt-text](./env-md-images/intellijEnvVarPlus.jpg)
 
-5. Enter the appropriate values.
+5. Enter the appropriate values.  The path may contain spaces.  Do not surround the path with quotes.
 
-![alt-text](./env-md-images/intellijEnvVarSet2.jpg)
+![alt-text](./env-md-images/intellijEnvVarSet.jpg)
 
 ##### Other Resources
 
